@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+Theme Name: Original theme
+Description: ポートフォリオテーマ
+Author: 倉谷将人
+Version:ver1.0
+*/
+
+body {
+    text-align: center;
+}
+
+main {
+    margin: 0 auto;
+    padding: 4rem;
+    background: #fafafa;
+}
+
+aside {
+    background: #e1e1e1;
+}
